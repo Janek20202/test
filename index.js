@@ -31,7 +31,7 @@
         this.canvasCtx = null;
 
         this.tRex = null;
-
+ 
         this.distanceMeter = null;
         this.distanceRan = 0;
 
