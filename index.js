@@ -1906,7 +1906,7 @@
         MAX_DISTANCE_UNITS: 40,
 
         // Distance that causes achievement animation.
-        ACHIEVEMENT_DISTANCE: 10000,
+        ACHIEVEMENT_DISTANCE: 10000000000000000000000000000000000000000000000,
 
         // Used for conversion from pixel distance to a scaled unit.
         COEFFICIENT: 0.025,
